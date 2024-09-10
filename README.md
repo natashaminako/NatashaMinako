@@ -1,5 +1,5 @@
 <h2 class="heading-element" dir="auto">About Me:</h2>
-<p dir="auto">I’m Natasha Minako, a designer, junior developer, and a second-semester student in Analysis and Systems Development. I’m also a digital content creator.
+<p dir="auto">I’m Natasha Minako, a designer, beginner developer, and a second-semester student in Analysis and Systems Development. I’m also a digital content creator.
 
 <h2 class="heading-element" dir="auto">Technologies:</h2>
 <p dir="auto">These are some of the technologies and tools that I work with:</p>
